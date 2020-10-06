@@ -1,0 +1,15 @@
+.align-left{
+    text-align: left !important;
+
+}
+.align{
+    margin:auto !important;
+    text-align: left !important;
+    border: solid black;
+
+}
+.card-align{
+    margin:auto !important;
+    text-align: left !important;
+    border:solid black;
+}
